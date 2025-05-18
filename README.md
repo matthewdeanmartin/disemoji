@@ -1,2 +1,6 @@
 # disemoji
-Make pretty disassembly visualizations. Not especially practical.
+
+
+
+## Prior Art
+https://peak.telecommunity.com/DevCenter/BytecodeAssembler
